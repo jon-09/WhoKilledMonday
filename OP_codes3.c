@@ -63,4 +63,5 @@ void queue_handler(stack_t **stack, unsigned int line_number)
 {
 	(void)stack;
 	(void)line_number;
-	data.qflag = 1
+	data.qflag = 1;
+}
