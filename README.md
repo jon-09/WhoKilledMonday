@@ -1,1 +1,1 @@
-The monty Language
+monty
